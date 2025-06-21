@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Week - 01\Design Principles & Patterns\AdapterPatternExample\bin\Debug\AdapterPatternExample.exe.config
+C:\Users\KIIT\Desktop\Week - 01\Design Principles & Patterns\AdapterPatternExample\bin\Debug\AdapterPatternExample.exe
+C:\Users\KIIT\Desktop\Week - 01\Design Principles & Patterns\AdapterPatternExample\bin\Debug\AdapterPatternExample.pdb
+C:\Users\KIIT\Desktop\Week - 01\Design Principles & Patterns\AdapterPatternExample\obj\Debug\AdapterPatternExample.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Week - 01\Design Principles & Patterns\AdapterPatternExample\obj\Debug\AdapterPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Week - 01\Design Principles & Patterns\AdapterPatternExample\obj\Debug\AdapterPatternExample.exe
+C:\Users\KIIT\Desktop\Week - 01\Design Principles & Patterns\AdapterPatternExample\obj\Debug\AdapterPatternExample.pdb
+C:\Users\KIIT\Desktop\Week - 01\Design Principles & Patterns\AdapterPatternExample\obj\Debug\AdapterPatternExample.exe.config
