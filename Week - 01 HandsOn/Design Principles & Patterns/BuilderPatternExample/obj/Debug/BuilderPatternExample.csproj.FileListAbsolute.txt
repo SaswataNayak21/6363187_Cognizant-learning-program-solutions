@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Week - 01\Design Principles & Patterns\BuilderPatternExample\bin\Debug\BuilderPatternExample.exe.config
+C:\Users\KIIT\Desktop\Week - 01\Design Principles & Patterns\BuilderPatternExample\bin\Debug\BuilderPatternExample.exe
+C:\Users\KIIT\Desktop\Week - 01\Design Principles & Patterns\BuilderPatternExample\bin\Debug\BuilderPatternExample.pdb
+C:\Users\KIIT\Desktop\Week - 01\Design Principles & Patterns\BuilderPatternExample\obj\Debug\BuilderPatternExample.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Week - 01\Design Principles & Patterns\BuilderPatternExample\obj\Debug\BuilderPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Week - 01\Design Principles & Patterns\BuilderPatternExample\obj\Debug\BuilderPatternExample.exe
+C:\Users\KIIT\Desktop\Week - 01\Design Principles & Patterns\BuilderPatternExample\obj\Debug\BuilderPatternExample.pdb
+C:\Users\KIIT\Desktop\Week - 01\Design Principles & Patterns\BuilderPatternExample\obj\Debug\BuilderPatternExample.exe.config
