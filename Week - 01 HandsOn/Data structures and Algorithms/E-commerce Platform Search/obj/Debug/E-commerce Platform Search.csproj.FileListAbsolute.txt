@@ -1,0 +1,7 @@
+C:\Users\KIIT\Desktop\Week - 01\Data structures and Algorithms\E-commerce Platform Search\bin\Debug\E-commerce Platform Search.exe.config
+C:\Users\KIIT\Desktop\Week - 01\Data structures and Algorithms\E-commerce Platform Search\bin\Debug\E-commerce Platform Search.exe
+C:\Users\KIIT\Desktop\Week - 01\Data structures and Algorithms\E-commerce Platform Search\bin\Debug\E-commerce Platform Search.pdb
+C:\Users\KIIT\Desktop\Week - 01\Data structures and Algorithms\E-commerce Platform Search\obj\Debug\E-commerce Platform Search.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Week - 01\Data structures and Algorithms\E-commerce Platform Search\obj\Debug\E-commerce Platform Search.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Week - 01\Data structures and Algorithms\E-commerce Platform Search\obj\Debug\E-commerce Platform Search.exe
+C:\Users\KIIT\Desktop\Week - 01\Data structures and Algorithms\E-commerce Platform Search\obj\Debug\E-commerce Platform Search.pdb
