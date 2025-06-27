@@ -4,7 +4,7 @@ Name: Saswata Kumar Nayak
 
 Superset ID: 6363187
 
-This repository contains all the Hands-On exercise code files for Week 01 of the Cognizant DN 4.0 training program.
+This repository contains all the Hands-On exercise code files for Week 01 & 02 of the Cognizant DN 4.0 training program.
 
 📁 Contents
  -  Source code for each Hands-On exercise
