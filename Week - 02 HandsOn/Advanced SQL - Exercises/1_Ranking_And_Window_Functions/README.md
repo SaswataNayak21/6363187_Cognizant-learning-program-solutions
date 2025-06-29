@@ -1,7 +1,7 @@
 # Exercise 1: Ranking and Window Functions
 
 ## 👨‍💻 Developer Info
-- **Name**: Dhruv Kushwaha  
+- **Name**: Saswata Kumar Nayak
 - **Assignment**: Cognizant Digital Nurture 4.0  
 - **Skill**: SQL – Advanced  
 - **Week**: 2
